@@ -1,0 +1,26 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 900;
+}
+
+div {
+
+    border: 1px black solid;
+    border-radius: 10px;
+    width: 25em;
+    height: 10em;
+    align-items: center;
+    text-align: center;
+    margin: auto;
+}
+
+button {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+     color: aliceblue;
+    font-size: 16px;
+    font-weight: 900;
+    background-color: hsl(203, 85%, 46%);
+    border: none;
+    border-radius: 1em;
+    padding: 1em 2em;
+}
